@@ -1,9 +1,9 @@
 # ecg-classification-mlp
 
-**Arrythmia detection and ECG classification using simple perceptron/MLP architectures.
-**Binary classifiers:
-**1st implementing a simple perceptron, 
-**2nd is a mlp
+Arrythmia detection and ECG classification using simple perceptron/MLP architectures.
+Binary classifiers:
+*1st implementing a simple perceptron, 
+*2nd is a mlp
 
 - Normal dataset:
 - two recordings (2x30mins)
